@@ -1,0 +1,9 @@
+sklearn
+pandas
+bs4
+lxml
+nltk
+matplotlib
+seaborn
+wheel
+wordcloud
